@@ -13,7 +13,7 @@ Clone the repo and install dependencies
     $ cd codechallenge
     $ mvn clean package
 
-#Running 🏃🏿
+# Running 🏃🏿
 
 This Java application reads a plain text file that containe the scores made in the bowling game by some player
 
